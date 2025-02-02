@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there i'm Anwar👋
 
 <!--
 **a-n-w-a-r/a-n-w-a-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Computer Science student learning to expand my knowledge in languages and syntax.
+- 🌱 I’m currently learning Python and Java.
+- ⚡ Fun fact: I like to train at a boxing club in my free time.
+- 📫 How to reach me: anwarfelicienspringall@gmail.com
